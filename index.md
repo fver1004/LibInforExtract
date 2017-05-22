@@ -7,7 +7,7 @@ ProjectName
 <br>
 
 
-Introduction ![intro](http://i.imgur.com/X2i1h1B.png) <br>
+Introduction
 --------------------------------------------------------------
 
 
@@ -21,7 +21,7 @@ Introduction ![intro](http://i.imgur.com/X2i1h1B.png) <br>
 > - [Hadoop](http://hadoop.apache.org/) (APACHE LICENSE, VERSION 2.0) 
 
 
-Build Environment ![env](http://i.imgur.com/FjjTjKG.png) <br>
+Build Environment
 ------------------------------------------------------------
 
 
@@ -31,7 +31,7 @@ Build Environment ![env](http://i.imgur.com/FjjTjKG.png) <br>
 > - Scrapy 1.3.3 :: Python 3.6.0 :: Anaconda 4.3.1
 > - Hadoop 2.7.3 :: Java 1.8.0_121
 
-How Can I use? ![used](http://i.imgur.com/rDNTaGc.png) <br>
+How Can I use?
 -------------------------------------------------------
 
 
@@ -63,7 +63,7 @@ Implemented function ![fucntion](http://i.imgur.com/4FLD2AM.png) <br>
 
 ----------
 
-examples ![ex](http://i.imgur.com/XPqPXiH.png) <br>
+examples
 -------------
 #### 동영상을 통해 실행과정을 볼 수 있습니다.
 [![demo](http://i.imgur.com/97kz0DT.png)](https://player.vimeo.com/video/218344037)
@@ -75,7 +75,7 @@ examples ![ex](http://i.imgur.com/XPqPXiH.png) <br>
 
 
 
-Report ![report](http://i.imgur.com/m6j6RuT.png) <br>
+Report
 --------------------
 
 > 2017.05.21 **Shell**  :: 빌드 :: [Shell 주기적 수행 구현 완료](https://github.com/fver1004/scrapyTest/commit/8ad27057e8bfacd627e319b6cd3a1be74f1b514b)<br>
