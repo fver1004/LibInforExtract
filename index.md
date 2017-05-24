@@ -37,7 +37,7 @@ How Can I use?
 
 사용법에 대한 설명 : [WiKi](https://github.com/fver1004/scrapyTest/wiki/Installation-&-Configuration#how-to-install) 를 참조
 
-Implemented function ![fucntion](http://i.imgur.com/4FLD2AM.png) <br>
+Implemented function <br>
 ---------------------
 ### <i class="icon-refresh"></i> Scrapy
 
